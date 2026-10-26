@@ -1,0 +1,9 @@
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs><clipPath id="pc"><rect x="6" y="14" width="28" height="76" rx="14"/></clipPath></defs>
+    <symbol id="sc" viewBox="0 0 100 100"><circle cx="28" cy="78" r="12" fill="none" stroke="currentColor" stroke-width="6"/><circle cx="72" cy="78" r="12" fill="none" stroke="currentColor" stroke-width="6"/><path d="M34 68L68 12M66 68L32 12" stroke="currentColor" stroke-width="7" stroke-linecap="round" fill="none"/></symbol>
+    <symbol id="pl" viewBox="0 0 40 100"><rect x="6" y="14" width="28" height="76" rx="14" fill="#fff" stroke="currentColor" stroke-width="3"/><g clip-path="url(#pc)"><path d="M0 42L40 22V34L0 54Z M0 78L40 58V70L0 90Z" fill="#c8202b"/><path d="M0 60L40 40V52L0 72Z" fill="#12224a"/></g><rect x="10" y="3" width="20" height="11" rx="4" fill="currentColor"/><rect x="10" y="90" width="20" height="8" rx="4" fill="currentColor"/></symbol>
+    <symbol id="cb" viewBox="0 0 100 100"><rect x="8" y="30" width="84" height="16" rx="8" fill="currentColor"/><path d="M16 46v28M30 46v28M44 46v28M58 46v28M72 46v28M86 46v28" stroke="currentColor" stroke-width="6" stroke-linecap="round"/></symbol>
+    <symbol id="lf" viewBox="0 0 100 100"><path d="M50 8C80 30 86 62 50 92 14 62 20 30 50 8Z" fill="currentColor"/><path d="M50 24V92" stroke="#fff" stroke-width="3" fill="none" opacity=".6"/></symbol>
+    <symbol id="st" viewBox="0 0 100 100"><ellipse cx="50" cy="78" rx="40" ry="14" fill="currentColor"/><ellipse cx="50" cy="52" rx="30" ry="11" fill="currentColor" opacity=".85"/><ellipse cx="50" cy="30" rx="20" ry="9" fill="currentColor" opacity=".7"/></symbol>
+    <symbol id="cp" viewBox="0 0 100 100"><path d="M20 30h60l-8 50a12 12 0 01-12 10H40a12 12 0 01-12-10z" fill="currentColor" opacity=".3" stroke="currentColor" stroke-width="4"/><rect x="42" y="14" width="16" height="16" rx="4" fill="currentColor"/></symbol>
+</svg>
